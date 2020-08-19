@@ -1,3 +1,5 @@
+#comment added to explore pull in git lesson
+
 def is_prime(num):
     if num == 2:
         return True
